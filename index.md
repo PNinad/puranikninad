@@ -8,8 +8,9 @@ I am a Ph.D. student at McGill University
 
 ## Research Interests
 
-- **Music Acoustics:** image recognition, image generation, video captioning
-- **MIR :** singing, trumpet, music education
+- **Music Acoustics:** Free-reed acoustics, physical modeling synthesis
+- **MIR :** Tools and technologies for music education
+- **
 
 
 ## News
