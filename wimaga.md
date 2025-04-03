@@ -35,7 +35,7 @@ Your browser does not support the audio element.
 
 
 Attempting to perform the same phrase on the new interface with the infra-red sensors
-<iframe width="957" height="538" src="https://www.youtube.com/embed/P8Bi3FqNLLA" title="bhairav phrase on digital harmonium with meend" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8Bi3FqNLLA" title="bhairav phrase on digital harmonium with meend" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Here is a detailed talk given as a Research Alive presentation at McGill University that gives an overview of the project:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l8ngmK1UjTA?si=SM1WD6O5e68pmBcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
