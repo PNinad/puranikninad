@@ -8,3 +8,7 @@
 * A Acquilino, N Puranik, I Fujinaga, G Scavone (2023). “A dataset and baseline for automated assessment of timbre quality in trumpet sound”. Proceedings of the 24th International Society of Music Information Retrieval Conference, 684-691. [Link](https://ismir2023program.ismir.net/poster_213.html)
 
 * A Acquilino, N Puranik, I Fujinaga, G Scavone (2023). “Detecting efficiency in trumpet sound production: proposed methodology and pedagogical implications”. Proceedings of the 5th Stockholm Music Acoustic Conference. [PDF](https://www.music.mcgill.ca/caml/lib/exe/fetch.php?media=publications:acquilino_efficiency_smac_2023.pdf)
+
+* N Puranik, T West, M M Wanderley, and G Scavone (2025). "Thoughts on mapping and interface design of a keyboard to perform continuous pitch ornamentations in Hindustani music". In Proceedings of the Workshop on Indian Music Analysis and Generative Applications, ICASSP 2025 Hyderabad, India. [PDF](https://ieeexplore.ieee.org/abstract/document/11011166)
+
+* T West, N Puranik, G Scavone, and M M Wanderley (2025). Towards the Continuous Harmonium: Replicating the Continuous Keyboard. Proceedings of the International Conference on New Interfaces for Musical Expression. [PDF](https://zenodo.org/records/15699652)

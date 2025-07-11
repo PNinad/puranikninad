@@ -19,8 +19,8 @@ I strongly believe that technology can help us provide an additional perspective
 
 
 ## News
-
-- **[Jan. 2024, Research Alive presentation]**  *A discrete instrument in an indiscrete world: Developing a digital harmonium for Indian music* for Research Alive 2024-25 [Link](https://youtu.be/l8ngmK1UjTA?si=cp3p0R-TlMjA3cIn)
+- **[Apr. 2025, Paper accepted]** *Towards the Continuous Harmonium: Replicating the Continuous Keyboard* at NIME 2025.
+- **[Jan. 2025, Research Alive presentation]**  *A discrete instrument in an indiscrete world: Developing a digital harmonium for Indian music* for Research Alive 2024-25 [Link](https://youtu.be/l8ngmK1UjTA?si=cp3p0R-TlMjA3cIn)
 - **[Dec. 2024, Paper Accepted]** *Thoughts on mapping and interface design of a keyboard to perform continuous pitch ornamentations in Hindustani music* at ICASSP 2025 Hyderabad, India in special track *Workshop on Indian Music Analysis and Generative Applications (WIMAGA)*
 
 
