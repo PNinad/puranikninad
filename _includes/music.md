@@ -1,6 +1,8 @@
 I am an eternal music learner, specializing in Hindustani Music!
 
-Reach out if you would like me to perform in a concert ! I provide harmonium accompaniment for Hindustani khyal and semi-classical forms like Thumri, natyageet and bhajan as well as lehra accompanyment for tabla solo and kathak performances.
+Reach out if you would like me to perform in a concert or learn Hindustani harmonium from me! 
+
+I specialize in Hindustani khyal and semi-classical forms like Thumri, natyageet and bhajan. I also perform lehra accompanyment for tabla solo and kathak performances.
 
 ## Past performances
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l8ngmK1UjTA?si=SM1WD6O5e68pmBcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
