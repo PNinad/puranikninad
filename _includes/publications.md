@@ -1,5 +1,5 @@
 ## Publications
-* Puranik, N. and Scavone, G. (2022) "Physical modelling synthesis of a harmonium." Proceedings of Meetings on Acoustics, Fourth Vienna Talk on Music Acoustics, 11-14 September 2022, 49, 035015, <https://doi.org/10.1121/2.0001679>. [PDF](https://www.music.mcgill.ca/caml/lib/exe/fetch.php?media=publications:puranik_harmonium_poma_2022.pdf)
+* Puranik, N. and Scavone, G. (2022) "Physical modelling synthesis of a harmonium." Proceedings of Meetings on Acoustics, Fourth Vienna Talk on Music Acoustics, 11-14 September 2022, 49, 035015, <https://doi.org/10.1121/2.0001679>. [PDF](./assets/files/puranik_harmonium_poma_2022.pdf)
 
 * Puranik, N. and Scavone, G. (2023) “Physically Inspired Signal Model for Harmonium Sound Synthesis.” Proceedings of the 26th International Conference on Digital Audio Effects, Copenhagen, Denmark, 4-7 September 2023, pp. 379-382. [PDF](https://www.music.mcgill.ca/caml/lib/exe/fetch.php?media=publications:puranik_harmonium_dafx_2023.pdf)
 
@@ -12,3 +12,6 @@
 * N Puranik, T West, M M Wanderley, and G Scavone (2025). "Thoughts on mapping and interface design of a keyboard to perform continuous pitch ornamentations in Hindustani music". In Proceedings of the Workshop on Indian Music Analysis and Generative Applications, ICASSP 2025 Hyderabad, India. [PDF](https://ieeexplore.ieee.org/abstract/document/11011166)
 
 * T West, N Puranik, G Scavone, and M M Wanderley (2025). Towards the Continuous Harmonium: Replicating the Continuous Keyboard. Proceedings of the International Conference on New Interfaces for Musical Expression. [PDF](https://zenodo.org/records/15699652)
+
+
+<!-- ./assets/audio/bhairav_phrase_aligned-02.wav -->
